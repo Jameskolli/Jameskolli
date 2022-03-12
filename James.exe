@@ -1,0 +1,15 @@
+#include <stdio.h>
+main()
+{
+int ch;
+printf("please type in one character:\n");
+ch = getc(stdin);
+printf("the character you just enter is: %\n", ch);
+return 0;
+}
+
+{
+int ch;
+printf(h),
+return 0;
+}
